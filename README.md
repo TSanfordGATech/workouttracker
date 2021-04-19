@@ -3,9 +3,13 @@
 
   # Table of Contents
   *[Contact](#Contact)
+
   *[link](#Links)
+
   *[Project Description](#description)
+
   *[Users will need to install the following items to run this application:](#installation)
+  
   *[Contributors](#contributing)
   
   # Contact 
