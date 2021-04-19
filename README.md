@@ -9,15 +9,15 @@
   *[Project Description](#description)
 
   *[Users will need to install the following items to run this application:](#installation)
-  
+
   *[Contributors](#contributing)
   
   # Contact 
   Tori.danielle.clark91@gmail.com or https://github.com/TSanfordGATech
   
   # Link
-    Deployed: 
-    Repo: 
+    Deployed: https://workouttracker396.herokuapp.com/
+    Repo: https://github.com/TSanfordGATech/workouttracker
 
 
 # Description
